@@ -4,7 +4,7 @@
   
   
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: octopus has blue blood 
+- ⚡ 
 
 <!---
 utkarrshhh/utkarrshhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
