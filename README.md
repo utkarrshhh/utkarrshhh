@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @utkarrshhh
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning node js 
+- 🌱 Finished MERN stack now working on some projects
+- Looking forward to learn NextJS 
   
   
 - 😄 Pronouns: he/him
