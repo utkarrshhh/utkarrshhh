@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarrshhh&show_icons=true&locale=en&layout=compact" alt="utkarrshhh" /></p>
 <p align="center">
-	<a href="https://github.com/utkar-sh-ukla">
+	<a href="https://github.com/utkarrshhh">
 		<img
 		align="center"
 		src="https://github-profile-trophy.vercel.app/?username=utkarrshhh&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
