@@ -81,10 +81,20 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=utkarrshhh&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarrshhh&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarrshhh&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=utkarrshhh&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utkarrshhh&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=utkarrshhh&theme=radical" />
 </p>
 
 ---
